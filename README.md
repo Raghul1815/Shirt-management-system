@@ -47,7 +47,7 @@ Setup Instructions
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/shirt-management-system.git
+git clone https://github.com/raghul1815/shirt-management-system.git
 cd shirt-management-system
 Database Setup
 
